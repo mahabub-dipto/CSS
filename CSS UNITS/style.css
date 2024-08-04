@@ -1,0 +1,13 @@
+body{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:1.5 ;
+    background: papayawhip;
+    color: rgba(0, green, blue, alpha);
+}
+p{
+    color: rgb(0,0,255);
+}
+.last{
+    color: rgba(0,0,0,1);
+}
